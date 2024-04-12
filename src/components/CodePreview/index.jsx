@@ -49,9 +49,9 @@ const CodePreview = () => {
                 <div className="ml-10">
                   <ReactTyped
                     strings={[
-                      "Halo! Nama saya",
                       "Hi! My name is",
                       "Bonjour! mon nom est",
+                      "Guten Tag! Mein Name ist",
                       "¡Hola! mi nombre es",
                     ]}
                     typeSpeed={80}
@@ -69,7 +69,7 @@ const CodePreview = () => {
                     classProperty={"text-nd-primary text-6xl font-bold"}
                   />
                 </div>
-                <div className="ml-10">Muhammad Naufal Dzaki.</div>
+                <div className="ml-10">John Kamau.</div>
                 <div className="ml-5">
                   <CloseTag nameTag={"h1"} />
                 </div>
@@ -80,7 +80,7 @@ const CodePreview = () => {
                   />
                 </div>
                 <div className="ml-10">
-                  I'm Junior Web Developer based On Surabaya.
+                  I'm Software engineer based in Nairobi, Kenya.
                 </div>
                 <div className="ml-5">
                   <CloseTag nameTag={"h2"} />
