@@ -89,7 +89,7 @@ const About = ({ setSelectedPage }) => {
               >
                 experience
               </Link>{" "}
-              then don't hesitate to{" "}
+              don't hesitate to{" "}
               <Link
                 className="text-nd-primary cursor-pointer underline"
                 to={"contact"}
@@ -112,7 +112,7 @@ const About = ({ setSelectedPage }) => {
                   visible: { opacity: 1, y: 0 },
                 }}
               >
-                Here are a few technologies I've been working with recently:
+                My skill set includes proficiency in several tech fields:
               </motion.p>
               <motion.ul
                 className="grid grid-cols-2 gap-y-2 w-full max-w-[500px] list-inside"
