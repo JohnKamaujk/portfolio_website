@@ -9,7 +9,8 @@ const About = ({ setSelectedPage }) => {
     <div
       id="about"
       className="pt-[100px] lg:pb-20 grid place-content-center w-full max-w-[1000px] mx-auto"
-      style={{ minHeight: "calc(100vh - 100px)" }}>
+      style={{ minHeight: "calc(100vh - 100px)" }}
+    >
       <motion.div
         className="flex flex-row items-center mb-5 sm:mb-6 md:mb-7 lg:mb-8"
         initial="hidden"
@@ -19,9 +20,10 @@ const About = ({ setSelectedPage }) => {
         variants={{
           hidden: { opacity: 0, y: 35 },
           visible: { opacity: 1, y: 0 },
-        }}>
+        }}
+      >
         <h2 className="text-nd-primary text-2xl sm:text-3xl md:text-4xl element">
-          WHO AM I?
+          About Me
         </h2>
         <hr className="border-t border-nd-primary ml-5 flex-grow max-w-[450px]" />
       </motion.div>
@@ -36,7 +38,8 @@ const About = ({ setSelectedPage }) => {
             variants={{
               hidden: { opacity: 0, x: 40, scale: 0.95 },
               visible: { opacity: 1, x: 0, scale: 1 },
-            }}>
+            }}
+          >
             <img
               src="./img/avatar/avatar_2.png"
               alt="Naufal Photo's"
@@ -53,14 +56,15 @@ const About = ({ setSelectedPage }) => {
               variants={{
                 hidden: { opacity: 0, y: 35 },
                 visible: { opacity: 1, y: 0 },
-              }}>
-              I'm an undergraduate student at UPN "Veteran" Jawa Timur. I have
-              been immersing myself in the realm of software engineering since
-              2019, during my time as a student at SMKN 1 Surabaya. I am a
-              dedicated web developer with a particular emphasis on front-end
-              development. Presently, I am actively engaged in learning and
-              delving deeper into the JavaScript programming language,
-              specifically focusing on the MERN Stack.
+              }}
+            >
+              I'm a software engineer who excels at using technology to solve
+              problems. I'm great at breaking down complex issues into smaller
+              parts and finding effective solutions. I'm creative, think
+              critically, and keep up with the latest trends. Whether it's
+              fixing code, making systems run better, or designing scalable
+              solutions, I tackle each challenge with passion. I also value
+              teamwork and communication.
             </motion.p>
             <motion.p
               className="text-nd-white text-base sm:text-xl text-justify"
@@ -71,7 +75,8 @@ const About = ({ setSelectedPage }) => {
               variants={{
                 hidden: { opacity: 0, y: 35 },
                 visible: { opacity: 1, y: 0 },
-              }}>
+              }}
+            >
               I'm open to Job opportunities where I can contribute, learn and
               grow. If you have a good opportunity that matches with my skills
               and{" "}
@@ -80,7 +85,8 @@ const About = ({ setSelectedPage }) => {
                 to={"experience"}
                 smooth={true}
                 duration={500}
-                onClick={() => setSelectedPage("experience")}>
+                onClick={() => setSelectedPage("experience")}
+              >
                 experience
               </Link>{" "}
               then don't hesitate to{" "}
@@ -89,7 +95,8 @@ const About = ({ setSelectedPage }) => {
                 to={"contact"}
                 smooth={true}
                 duration={500}
-                onClick={() => setSelectedPage("contact")}>
+                onClick={() => setSelectedPage("contact")}
+              >
                 contact me.
               </Link>
             </motion.p>
@@ -103,7 +110,8 @@ const About = ({ setSelectedPage }) => {
                 variants={{
                   hidden: { opacity: 0, y: 35 },
                   visible: { opacity: 1, y: 0 },
-                }}>
+                }}
+              >
                 Here are a few technologies I've been working with recently:
               </motion.p>
               <motion.ul
@@ -115,7 +123,8 @@ const About = ({ setSelectedPage }) => {
                 variants={{
                   hidden: { opacity: 0, y: 35 },
                   visible: { opacity: 1, y: 0 },
-                }}>
+                }}
+              >
                 {tech.map((items, index) => (
                   <motion.li
                     style={{ listStyleImage: "url(./icon/arrowRight.svg)" }}
@@ -127,7 +136,8 @@ const About = ({ setSelectedPage }) => {
                     variants={{
                       hidden: { opacity: 0, y: 30 },
                       visible: { opacity: 1, y: 0 },
-                    }}>
+                    }}
+                  >
                     {items}
                   </motion.li>
                 ))}
