@@ -17,7 +17,7 @@ const Gmail = () => {
             hidden: { opacity: 0, y: 30 },
             visible: { opacity: 1, y: 0 },
           }}>
-          nd.naufaldzaki@gmail.com
+          johnjkkamau@gmail.com
         </motion.a>
         <motion.hr
           className="border-l border-nd-secondary"

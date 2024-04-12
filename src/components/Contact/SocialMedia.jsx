@@ -16,8 +16,9 @@ const SocialMedia = () => {
           variants={{
             hidden: { opacity: 0, y: 30 },
             visible: { opacity: 1, y: 0 },
-          }}>
-          <a href="http://github.com/naufal-dzaki" target="_blank">
+          }}
+        >
+          <a href="https://github.com/JohnKamaujk" target="_blank">
             <GitHub />
           </a>
         </motion.li>
@@ -29,8 +30,12 @@ const SocialMedia = () => {
           variants={{
             hidden: { opacity: 0, y: 30 },
             visible: { opacity: 1, y: 0 },
-          }}>
-          <a href="http://linkedin.com/in/naufal-dzaki" target="_blank">
+          }}
+        >
+          <a
+            href="https://www.linkedin.com/in/john-kamau-000676231"
+            target="_blank"
+          >
             <LinkedIn />
           </a>
         </motion.li>
@@ -42,8 +47,9 @@ const SocialMedia = () => {
           variants={{
             hidden: { opacity: 0, y: 30 },
             visible: { opacity: 1, y: 0 },
-          }}>
-          <a href="http://instagram.com/naufal.dza" target="_blank">
+          }}
+        >
+          <a href="http://instagram.com/" target="_blank">
             <Instagram />
           </a>
         </motion.li>
@@ -56,7 +62,8 @@ const SocialMedia = () => {
           variants={{
             hidden: { opacity: 0, y: 30 },
             visible: { opacity: 1, y: 0 },
-          }}>
+          }}
+        >
           <hr className="hidden md:flex border-l border-nd-secondary flex-grow h-0 min-[768px]:h-[calc(60vh-132px)]" />
         </motion.li>
       </motion.ul>
