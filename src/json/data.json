@@ -46,16 +46,23 @@
     },
     {
       "id": 3,
-      "company": "Peduly",
-      "linkCompany": "https://peduly.com",
-      "position": "Frontend Web Developer (internship)",
+      "company": "iTalanta hub",
+      "linkCompany": "https://italanta.net/",
+      "position": "Software Developer (internship)",
       "startDate": "11-01-2022",
       "endDate": "02-10-2022",
-      "tech": ["React JS", "Tailwind CSS", "Bootstrap", "SCSS"],
+      "tech": [
+        "React JS",
+        "Express JS",
+        "Node JS",
+        "Tailwind CSS",
+        "Bootstrap",
+        "Mongo DB"
+      ],
       "jobDesc": [
-        "Contributed to maintaining and implementing the design-to-code process for <a href='https://peduly.com/' target='_blank' class='underline'>Peduly</a>, utilizing React JS and Tailwind CSS",
-        "Contributed to maintaining and implementing the design-to-code process for <a href='https://admin.peduly.com/' target='_blank' class='underline'>Admin Peduly</a>, utilizing React JS, Bootstrap and SCSS.",
-        "Successfully developed and implemented the design-to-code processes for <a href='https://involuntir.com/' target='_blank' class='underline'>Involuntir</a>, utilizing Tailwind CSS and React JS.",
+        "Contributed to maintaining and implementing the design-to-code process for <a href='https://italanta.net/ target='_blank' class='underline'>iTalanta Hub</a>, utilizing React JS and Tailwind CSS",
+        "Contributed to maintaining and implementing the design-to-code process for <a href='https://italanta.net/ target='_blank' class='underline'>Admin iTalanta</a>, utilizing React JS & Tailwind CSS.",
+        "Successfully developed and implemented the design-to-code processes for <a href='https://www.basi-go.com/ target='_blank' class='underline'>BasiGo</a>, utilizing React js, Boostrap & MUI",
         "Collaborated with UI/UX Designer to create visually appealing and user friendly.",
         "Collaborated with Back-end Engineers to create RESTFUL APIs for seamless communication between front-end and back-end systems."
       ]
