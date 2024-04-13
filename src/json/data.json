@@ -32,12 +32,20 @@
     },
     {
       "id": 2,
-      "company": "Djava Optik",
-      "linkCompany": "https://optikdjava.com/",
-      "position": "Wordpress Developer (FreeLance)",
+      "company": "Fiverr Freelance",
+      "linkCompany": "https://www.fiverr.com/",
+      "position": "Software Developer (FreeLance)",
       "startDate": "05-16-2023",
-      "endDate": "06-30-2023",
-      "tech": ["wordpress"],
+      "endDate": "Present",
+      "tech": [
+        "React JS",
+        "Express JS",
+        "Node JS",
+        "Tailwind CSS",
+        "Bootstrap",
+        "Mongo DB",
+        "Laravel"
+      ],
       "jobDesc": [
         "Created an online store website using wordpress, showcasing eye glass products and ensuring a user friendly browsing experience",
         "Optimized website performance by implementing caching and image compression",
