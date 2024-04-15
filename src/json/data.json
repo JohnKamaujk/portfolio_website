@@ -45,11 +45,10 @@
       "endDate": "Present",
       "tech": ["Mongo DB", "Express JS", "React JS", "Node JS"],
       "jobDesc": [
-        "Acquired proficiency in building full-stack websites using MongoDB, Express JS, React JS and Node JS through technical classes",
-        "Developed RESTful API with CRUD functionality using Express JS and MongoDB, following the principles of N-Layered structure.",
-        "Developed website interfaces using React.js, following principles of atomic design.",
-        "Completed self-learning placed course from Progate (HTML& CSS, ES6, React JS, Node JS, Git).",
-        "Collaborated with a 5-member team to successfully complete the final capstone project."
+        "Wrote comprehensive documentation for JavaScript frameworks such as React, Angular, and Vue.js, including detailed explanations of concepts like React Hooks, Angular routing, and Vue.js lifecycle methods.",
+        "Authored user manuals and guides for various database systems, including MongoDB, MySQL, and PostgreSQL, providing in-depth comparisons between relational and non-relational databases, and detailed instructions on database setup, querying, and optimization.",
+        "Created tutorials and instructional content for developers on advanced topics like ES6 features, asynchronous programming in Node.js, and best practices for version control using Git.",
+        "Collaborated closely with development teams to ensure accuracy and clarity of technical documentation, actively participating in code reviews and providing feedback on API documentation, code samples, and integration guides."
       ]
     },
     {
