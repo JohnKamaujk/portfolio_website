@@ -1,6 +1,6 @@
 import React from "react";
 
-const Peduly = ({ size }) => {
+const Fiverr = ({ size }) => {
   return (
     <svg
       className={size ? size : "h-10"}
@@ -32,4 +32,4 @@ const Peduly = ({ size }) => {
   );
 };
 
-export default Peduly;
+export default Fiverr;
