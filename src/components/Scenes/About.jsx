@@ -41,7 +41,7 @@ const About = ({ setSelectedPage }) => {
             }}
           >
             <img
-              src="./img/avatar/avatar_2.png"
+              src="./img/avatar/avatar.jpg"
               alt="Naufal Photo's"
               className="min-w-max w-52 sm:w-56 md:w-60 lg:w-64 h-52 sm:h-56 md:h-60 lg:h-[264px] object-cover bg-nd-white self-end justify-self-center"
             />
