@@ -81,19 +81,18 @@
     {
       "title": "Foodie Express",
       "imgUrl": "./img/project/foodie.png",
-      "tech": ["Mongo DB", "Express JS", "React JS", "Node JS","Tailwind CSS"],
+      "tech": ["Mongo DB", "Express JS", "React JS", "Node JS", "Tailwind CSS"],
       "description": "Foodie Express is a modern food delivery web application designed to connect customers with their favorite local restaurants, while also empowering users to become restaurant owners themselves.",
       "linkGithub": "https://github.com/JohnKamaujk/foodie-express",
-      "linkWebsite": "https://foodie-express-app.onrender.com/"
+      "linkWebsite": "https://foodie-express-app.onrender.com"
     },
     {
-      "title": "BeSmart",
-      "imgUrl": "./img/project/besmart2.png",
-      "tech": ["Laravel", "Tailwind CSS"],
-      "description": "Besmart is an E-Learning platform to facilitate the distance learning process.",
-      "linkGithub": "https://github.com/naufal-dzaki/besmart_",
-      "linkWebsite": "",
-      "mockupCreadit": "https://www.freepik.com/free-psd/digital-device-screen-mockup-psd-with-tablet-laptop-computer-phone_17860353.htm#query=mockup%20tablet%20and%20laptop&position=12&from_view=search&track=ais"
+      "title": "JobHub Connect",
+      "imgUrl": "./img/project/jobhub.png",
+      "tech": ["Mongo DB", "Express JS", "React JS", "Node JS", "Tailwind CSS"],
+      "description": "A Job Board Application that simplifies job searches for users and eases recruitment for administrators. Users can browse curated job listings, filter by location, industry, or job type, and create personalized accounts with resume/CV and job preferences.",
+      "linkGithub": "https://github.com/JohnKamaujk/JobHub_Connect",
+      "linkWebsite": "https://jobhub-connect-app.onrender.com"
     }
   ]
 }
