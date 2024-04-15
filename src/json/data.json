@@ -79,12 +79,12 @@
   ],
   "project": [
     {
-      "title": "Nhask",
-      "imgUrl": "./img/project/nhask1.png",
-      "tech": ["React JS", "Tailwind CSS", "Laravel"],
-      "description": "Nhask is a Drag and Drop To-Do list web app to make task management, organization, and planning easier",
-      "linkGithub": "https://github.com/Naufal-dzaki/Nhask-TodoList-BackEnd",
-      "linkWebsite": ""
+      "title": "Foodie Express",
+      "imgUrl": "./img/project/foodie.png",
+      "tech": ["Mongo DB", "Express JS", "React JS", "Node JS","Tailwind CSS"],
+      "description": "Foodie Express is a modern food delivery web application designed to connect customers with their favorite local restaurants, while also empowering users to become restaurant owners themselves.",
+      "linkGithub": "https://github.com/JohnKamaujk/foodie-express",
+      "linkWebsite": "https://foodie-express-app.onrender.com/"
     },
     {
       "title": "BeSmart",
