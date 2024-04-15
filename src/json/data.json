@@ -93,6 +93,13 @@
       "description": "A Job Board Application that simplifies job searches for users and eases recruitment for administrators. Users can browse curated job listings, filter by location, industry, or job type, and create personalized accounts with resume/CV and job preferences.",
       "linkGithub": "https://github.com/JohnKamaujk/JobHub_Connect",
       "linkWebsite": "https://jobhub-connect-app.onrender.com"
+    },    {
+      "title": "Catrix",
+      "imgUrl": "./img/project/catrix.png",
+      "tech": ["Bootstrap","Laravel","wordpress"],
+      "description": "Catrix, a website for the renowned Catrix 5-star restaurant in Nairobi, Kenya, boasts a sleek UI crafted with Bootstrap and PHP for seamless interactivity.",
+      "linkGithub": "https://github.com/JohnKamaujk/catrix",
+      "linkWebsite": "https://catrix.vercel.app"
     }
   ]
 }
