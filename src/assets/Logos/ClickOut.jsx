@@ -1,6 +1,6 @@
 import React from "react";
 
-const GoToImpact = ({ size }) => {
+const ClickOut = ({ size }) => {
   return (
     <svg
       className={size ? size : "h-10"}
@@ -21,4 +21,4 @@ const GoToImpact = ({ size }) => {
   );
 };
 
-export default GoToImpact;
+export default ClickOut;
