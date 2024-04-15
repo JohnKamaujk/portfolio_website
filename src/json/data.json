@@ -31,9 +31,11 @@
         "Laravel"
       ],
       "jobDesc": [
-        "Created an online store website using wordpress, showcasing eye glass products and ensuring a user friendly browsing experience",
-        "Optimized website performance by implementing caching and image compression",
-        "Collaborated with a friend to successfully build Djava Optik's online store, integrating payment gateways and order management system"
+        "Developed and deployed custom web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack, delivering scalable and efficient solutions tailored to client requirements.",
+        "Automated repetitive tasks and streamlined workflows by writing Python and Bash scripts, improving development and deployment processes.",
+        "Provided ongoing maintenance and support for existing web applications, ensuring optimal performance and security.",
+        "Collaborated with clients to gather requirements, plan project milestones, and provide regular updates on progress and deliverables.",
+        "Implemented version control using Git for project management and collaboration, facilitating code review and continuous integration."
       ]
     },
     {
@@ -41,7 +43,7 @@
       "company": "ClickOut Media LTD",
       "linkCompany": "https://clickout.com/",
       "position": "Technical Writer",
-      "startDate": "07-13-2023",
+      "startDate": "11-13-2023",
       "endDate": "Present",
       "tech": ["Mongo DB", "Express JS", "React JS", "Node JS"],
       "jobDesc": [
