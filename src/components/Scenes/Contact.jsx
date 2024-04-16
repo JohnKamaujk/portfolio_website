@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 const Contact = ({ setSelectedPage }) => {
   const handleClickButton = () => {
-    window.location.href = "mailto:nd.naufaldzaki@gmail.com";
+    window.location.href = "mailto:johnjkkamau@gmail.com";
   };
 
   return (
@@ -70,7 +70,7 @@ const Contact = ({ setSelectedPage }) => {
             visible: { opacity: 1, y: 0 },
           }}>
           Feel free to contact me. My inbox is always open. Whether you have any
-          questions or just want to say hello, I'll try my best to back to you!
+          questions or just want to say hello. I'll try my best to get back to you!
         </motion.p>
         <motion.div
           initial="hidden"
