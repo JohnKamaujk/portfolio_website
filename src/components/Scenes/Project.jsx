@@ -24,7 +24,7 @@ const Project = ({ setSelectedPage }) => {
           visible: { opacity: 1, y: 0 },
         }}>
         <h2 className="text-nd-primary text-2xl sm:text-3xl md:text-4xl">
-          Some Things I've Build
+          My Projects Collection
         </h2>
         <hr className="border-t border-nd-primary ml-5 flex-grow max-w-[450px]" />
       </motion.div>
