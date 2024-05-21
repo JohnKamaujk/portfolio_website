@@ -80,7 +80,7 @@ const Home = ({ setSelectedPage }) => {
               visible: { opacity: 1, x: 0 },
             }}
           >
-            <OutlineButton OnClickEvent={handleClickButton}>
+            <OutlineButton >
               Resume
             </OutlineButton>
           </motion.div>
