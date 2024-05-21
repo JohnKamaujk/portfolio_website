@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 const Home = ({ setSelectedPage }) => {
   const handleClickButton = () => {
     window.open(
-      "https://drive.google.com/file/d/1_yQI8U8HFJiwlwTuNkl9NMfEimZoIETI/view?usp=sharing",
+      "https://drive.google.com/file/d/1qHoF_2z0fml-GdL1kvfS5as3yXJIzYR-/view",
       "_blank"
     );
   };
@@ -80,7 +80,7 @@ const Home = ({ setSelectedPage }) => {
               visible: { opacity: 1, x: 0 },
             }}
           >
-            <OutlineButton >
+            <OutlineButton OnClickEvent={handleClickButton}>
               Resume
             </OutlineButton>
           </motion.div>
