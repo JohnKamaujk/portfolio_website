@@ -68,7 +68,7 @@ const Home = ({ setSelectedPage }) => {
               visible: { opacity: 1, y: 0 },
             }}
           >
-            I'm Software engineer based in Nairobi, Kenya.
+            I'm a Software engineer based in Nairobi, Kenya.
           </motion.h2>
           <motion.div
             initial="hidden"
