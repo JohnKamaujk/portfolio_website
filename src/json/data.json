@@ -2,14 +2,14 @@
   "about": [
     {
       "tech": [
-        "Computer programming",
-        "Backend development",
-        "Mobile development",
-        "Database management",
-        "System administration",
-        "Cloud computing",
-        "Front-end frameworks",
-        "Responsive design"
+        "React & NextJS",
+        "Express & NestJS",
+        "TypeScript",
+        "Django & Flask",
+        "Scripting(Python)",
+        "PostgreSQL",
+        "Docker",
+        "AWS (cloud)"
       ]
     }
   ],
@@ -101,7 +101,8 @@
       "description": "Catrix, a website for the renowned Catrix 5-star restaurant in Nairobi, Kenya, boasts a sleek UI crafted with Bootstrap and PHP for seamless interactivity.",
       "linkGithub": "https://github.com/JohnKamaujk/catrix",
       "linkWebsite": "https://catrix.vercel.app"
-    },    {
+    },
+    {
       "title": "TurfZone",
       "imgUrl": "./img/project/turf.png",
       "tech": ["React JS", "Node JS", "Tailwind CSS"],
